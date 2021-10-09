@@ -1,0 +1,2 @@
+# ExerciciosPhyton
+Pastas Exercícios Phyton 
