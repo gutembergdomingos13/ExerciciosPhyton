@@ -1,0 +1,3 @@
+teste = 'casa'
+
+print(teste)
